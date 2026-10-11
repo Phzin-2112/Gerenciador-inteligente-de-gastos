@@ -1,0 +1,1 @@
+# Gerenciador-inteligente-de-gastos
